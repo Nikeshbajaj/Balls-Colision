@@ -1,5 +1,5 @@
-# Balls Colision -  MATLAB Simulation
-### MATLAB Code for Balls colision simultion
+# Balls Collision -  MATLAB Simulation
+### MATLAB Code for Balls collision
 #### This is unlike other functions where we have to pass parameters, this program can be executed by just clicking on run button
 
 ### Explaination
