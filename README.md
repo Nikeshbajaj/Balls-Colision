@@ -7,8 +7,8 @@
 
 #### What can be changed?
 
-#####Radius of Balls can be changed, at line 25 by changing size = ??
-#####Color can be changed, at line 26 and 27, color1 ='green' or 'black'
+#####Radius of Balls can be changed, at line 25 by changing `size = ??`
+#####Color can be changed, at line 26 and 27, ` color1 ='green' ` or 'black'
 #####Width and Hight of window can be changed, at line 10 and 11
 
 ####===========================================
